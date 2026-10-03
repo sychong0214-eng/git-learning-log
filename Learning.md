@@ -23,3 +23,5 @@ I'm learning Git and version control to track my work.
 - [Oh My Git!](https://ohmygit.org) - Interactive game to learn Git
 
 Mytesintg
+## Next Steps
+- Learn about rebasing and interactive rebase
